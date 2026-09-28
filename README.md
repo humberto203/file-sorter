@@ -2,7 +2,7 @@
 
 Un script ligero en Python para organizar automáticamente directorios desordenados (como descargas o escritorio) clasificando archivos en subcarpetas según su extensión.
 
-## ✨ Características
+## Características
 
 - Cero dependencias externas (usa únicamente la biblioteca estándar de Python 3).
 - **Modo seguro (`--dry-run`)**: visualiza los cambios antes de mover cualquier archivo.
